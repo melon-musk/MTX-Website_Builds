@@ -14,3 +14,6 @@
 
 # v1.0.3
 <br/> Fixed Bug where welcome hero video wouldn't play on ios devices
+
+# v1.0.3.1
+<br/> Add cache control meta tag back to index.html
