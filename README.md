@@ -17,3 +17,6 @@
 
 # v1.0.3.1
 <br/> Add cache control meta tag back to index.html
+
+# v2.0
+<br/> added user form submissions and added updated css for contact section
